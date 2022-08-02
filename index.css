@@ -1,0 +1,131 @@
+body{
+    background: #E5E5E5;
+}
+
+.container{
+    width: 1440px;
+    height: 920px;
+    background: #FFFFFF;
+    border: 1px solid #fff;
+}
+
+.leftcontainer{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 132px;
+    height: 853px;
+    background: #000000;
+    border-radius: 24px;
+    box-sizing: border-box;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 25px;
+    width: 47px;
+    height: 102px;
+    font-family: Baloo Bhai;
+    color: #FFFFFF;
+}
+
+.logo img{
+    margin-top: 30px;
+}
+
+.home{
+    display: grid;
+    justify-content: space-around;
+    margin-top: 44px;
+   
+}
+
+.cup{
+    margin-top: 64px;
+}
+
+.son{
+    margin-top: 64px;
+}
+
+.message{
+    margin-top: 64px;
+}
+
+.set{
+    margin-top: 64px;
+}
+.iconexit{
+    margin-top: 195px;
+    margin-left: 50px;
+}
+
+.header{
+    position: absolute;
+    width: 620px;
+    height: 191.25px;
+    left: 220px;
+    margin-top: 24px;
+    top: 1px;
+}
+
+.search{
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    display: flex;
+    top: 55px;
+    left: 900px;
+}
+
+.profil{
+    display: flex;
+    position: absolute;
+    display: flex;
+    margin-left: 380px;
+
+}
+
+.person{
+    border-radius: 8px;
+    margin-left: 30px;
+}
+
+.status{
+    width: 208px;
+    height: 96.33px;
+    margin-left: -250px;
+    margin-top: 100px;
+}
+
+.course{
+    position: absolute;
+    width: 620px;
+    height: 80px;
+    left: 236px;
+    top: 239.34px;
+}
+
+.section{
+    position: absolute;
+    width: 620px;
+    height: 554.49px;
+    left: 236px;
+    top: 345px;
+}
+
+.statistics{
+    position: absolute;
+    width: 449.59px;
+    height: 378.5px;
+    left: 923.69px;
+    top: 255.29px;
+}
+
+.premium{
+    position: absolute;
+    width: 440px;
+    height: 193px;
+    left: 920.06px;
+    top: 683px;
+}
+
+
